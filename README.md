@@ -16,5 +16,6 @@ Pixel size: 0.635 um ; Exposure time: 5 ms ;
 
 
 # Requirements: 
-  - Install Tomopy Library (https://github.com/tomopy/tomopy?tab=readme-ov-file) / Using Conda: conda install -c conda-forge tomopy (Anaconda prompt)
+  - Install Tomopy Library (https://github.com/tomopy/tomopy?tab=readme-ov-file)
+    - Using Conda: conda install -c conda-forge tomopy (Anaconda prompt)
   

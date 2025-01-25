@@ -2,6 +2,8 @@
 ## Image filtering and bubbles segmentation 
 
 Count and measure bubbles in a dual phase flow (oxygen/water)
+Download jupyter notebook and data folder in the same folder
+
 ## Process:
 - Create and subtract background
 - Non linear filtering, median filtering, down sampling
